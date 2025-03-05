@@ -9,5 +9,5 @@ The dataset was extracted using Google API, which transformed my emails into a c
 ## How to view the project
 1. Click on the index.html file.
 2. Click on the button Raw.
-3. On the new tab that open replace the *raw.githubusercontent.com* in the page url with *raw.githack.com*.
+3. On the new tab that appears replace the *raw.githubusercontent.com* in the page url with *raw.githack.com*.
 4. Click Enter.
